@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
     const images = [
         "Parabens.png",
-        "Parabens3.jpg",
+        "Parabens4.jpeg",
         "02-10-rotativo2.jpeg",
         "02-10.jpeg",
         "04-10.jpeg",
